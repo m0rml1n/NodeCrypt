@@ -143,7 +143,7 @@ const LANGUAGES = {
 			
 			// Login and main UI
 			'ui.enter_node': '加密聊天室',
-			'ui.username': '用户名',
+			'ui.username': '昵称',
 			'ui.node_name': '节点名称',
 			'ui.node_password': '节点密码',
 			'ui.optional': '（可选）',
